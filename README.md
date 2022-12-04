@@ -1,4 +1,4 @@
-# flutter_tickets
+# flutter_tickets_app
 
 A new Flutter project.
 
