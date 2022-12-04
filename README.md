@@ -1,6 +1,6 @@
 # flutter_tickets_app
 
-A new Flutter project.
+A new Flutter project tutorial.
 
 ## Getting Started
 
